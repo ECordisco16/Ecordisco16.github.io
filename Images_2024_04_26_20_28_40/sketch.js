@@ -1,5 +1,3 @@
-
-
 let img1, img2, img3;
 let song;
 var maxDiameter; 
